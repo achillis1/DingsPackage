@@ -31,7 +31,6 @@ Partial Class Form1
         Me.ClientSize = New System.Drawing.Size(734, 293)
         Me.Name = "Form1"
         Me.Text = "Form1"
-        Me.TopMost = True
         Me.ResumeLayout(False)
 
     End Sub
