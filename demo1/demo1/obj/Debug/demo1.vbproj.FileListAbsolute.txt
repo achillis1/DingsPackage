@@ -1,0 +1,15 @@
+C:\Ding\twsSophia2014\demo1\demo1\bin\Debug\demo1.exe.config
+C:\Ding\twsSophia2014\demo1\demo1\bin\Debug\demo1.exe
+C:\Ding\twsSophia2014\demo1\demo1\bin\Debug\demo1.pdb
+C:\Ding\twsSophia2014\demo1\demo1\bin\Debug\demo1.xml
+C:\Ding\twsSophia2014\demo1\demo1\bin\Debug\Interop.TWSLib.dll
+C:\Ding\twsSophia2014\demo1\demo1\bin\Debug\AxInterop.TWSLib.dll
+C:\Ding\twsSophia2014\demo1\demo1\obj\Debug\Interop.TWSLib.dll
+C:\Ding\twsSophia2014\demo1\demo1\obj\Debug\AxInterop.TWSLib.dll
+C:\Ding\twsSophia2014\demo1\demo1\obj\Debug\demo1.vbproj.ResolveComReference.cache
+C:\Ding\twsSophia2014\demo1\demo1\obj\Debug\demo1.Form1.resources
+C:\Ding\twsSophia2014\demo1\demo1\obj\Debug\demo1.Resources.resources
+C:\Ding\twsSophia2014\demo1\demo1\obj\Debug\demo1.vbproj.GenerateResource.Cache
+C:\Ding\twsSophia2014\demo1\demo1\obj\Debug\demo1.exe
+C:\Ding\twsSophia2014\demo1\demo1\obj\Debug\demo1.xml
+C:\Ding\twsSophia2014\demo1\demo1\obj\Debug\demo1.pdb
